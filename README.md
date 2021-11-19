@@ -5,6 +5,3 @@ My name is Rory Bourdon. I'm a software developer and graphic artist. In my free
 - 🌱 **I’m currently learning**: [next-md-remote](https://github.com/hashicorp/next-mdx-remote)
 - :hammer: **I'm currently building**: My new portfolio site with [Next.js](https://github.com/vercel/next.js), [Framer Motion](https://github.com/framer/motion) and [Styled Components](https://github.com/styled-components/styled-components)
 
-&nbsp;
-
-![Alt](https://repobeats.axiom.co/api/embed/1b9f26807bc9b7030c3c961ee51eb301c299fb70.svg "Repobeats analytics image")
